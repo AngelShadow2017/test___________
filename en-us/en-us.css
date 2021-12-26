@@ -58,6 +58,7 @@
 /*Restart and Quit buttons in Pause Menu*/
 #Menu .button{
     -webkit-text-stroke: 1.5px black;
+    letter-spacing:2px;
 }
 /*Auto Collect Sun And Mute checkbox in Pause Menu*/
 #Menu .OMd0 .OMd1{
@@ -70,20 +71,20 @@
 }
 /*Names of Activites In Notice Menu*/
 #Notice .ActName{ 
-    font-weight: 900; 
+    font-weight: 1000; 
     font-size: 36px; 
     -webkit-text-stroke: 1.5px black; 
 }
 /*Dates of Activites In Notice Menu*/
 #Notice .ActDate{ 
-    font-weight: 900; 
-    font-size: 20px; 
+    font-weight: 1000; 
+    font-size: 22px; 
     -webkit-text-stroke: 1px black; 
 }
 /*Number of Levels In Notice Menu*/
 #Notice .ActNumber{ 
-    font-weight: 900; 
-    font-size: 20px; 
+    font-weight: 1000; 
+    font-size: 22px; 
     -webkit-text-stroke: 1px black; 
 }
 /*Score Text in game*/
