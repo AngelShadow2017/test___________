@@ -57,16 +57,16 @@
 }
 /*Restart and Quit buttons in Pause Menu*/
 #Menu .button{
-    -webkit-text-stroke: 0.4px black;
+    -webkit-text-stroke: 0.7px black;
 }
 /*Auto Collect Sun And Mute checkbox in Pause Menu*/
 #Menu .OMd0 .OMd1{
-    -webkit-text-stroke: 0.4px black;
+    -webkit-text-stroke: 0.7px black;
 }
 /*Fast Setting*/
 #kuaisushezhi .OMd1{
     font-size:20px;
-    -webkit-text-stroke: 0.4px black;
+    -webkit-text-stroke: 0.7px black;
 }
 /*Names of Activites In Notice Menu*/
 #Notice .ActName{ 
