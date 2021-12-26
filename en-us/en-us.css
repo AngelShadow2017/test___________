@@ -44,7 +44,7 @@
 /*Level Name In Selection Menu(The big yellow one)*/
 #LvlInfoUI #guankaming{
     -webkit-text-stroke: 0.4px black;
-    text-shadow: 1px 1px 1px #000;
+    text-shadow: 1.5px 1.5px 1.5px #000;
     font-weight: 800;
     font-size: 28px;
 }
@@ -57,7 +57,7 @@
 }
 /*Restart and Quit buttons in Pause Menu*/
 #Menu .button{
-    -webkit-text-stroke: 0.7px black;
+    -webkit-text-stroke: 1px black;
 }
 /*Auto Collect Sun And Mute checkbox in Pause Menu*/
 #Menu .OMd0 .OMd1{
@@ -66,7 +66,7 @@
 /*Fast Setting*/
 #kuaisushezhi .OMd1{
     font-size:20px;
-    -webkit-text-stroke: 0.7px black;
+    -webkit-text-stroke: 0.4px black;
 }
 /*Names of Activites In Notice Menu*/
 #Notice .ActName{ 
