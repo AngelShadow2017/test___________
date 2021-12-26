@@ -72,7 +72,7 @@
 #Notice .ActName{ 
     font-weight: 900; 
     font-size: 36px; 
-    -webkit-text-stroke: 3px black; 
+    -webkit-text-stroke: 10px black; 
 }
 /*Dates of Activites In Notice Menu*/
 #Notice .ActDate{ 
