@@ -97,7 +97,7 @@
 /*Level Name in game*/
 #sFlagMeterTitleF{
     font-size:23px;
-    font-weight:1000;
+    font-weight: 1500;
     text-shadow: 1px 1px 1px #000;
     -webkit-text-stroke: 1px black; 
 }
