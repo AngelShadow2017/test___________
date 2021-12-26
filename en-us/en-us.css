@@ -101,8 +101,8 @@
 #sFlagMeterTitleF{
     font-size: 25px;
     font-weight: bold;
-    text-shadow: 1px 1px 1.5px #000;
-    -webkit-text-stroke: 0.5px black; 
+    text-shadow: 1.5px 1.5px 1.5px #000;
+    -webkit-text-stroke: 0.7px black; 
 }
 /*Alert Box*/
 #jngAlert #text{
