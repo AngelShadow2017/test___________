@@ -57,7 +57,8 @@
 }
 /*Restart and Quit buttons in Pause Menu*/
 #Menu .button{
-    -webkit-text-stroke: 1.5px black;
+    -webkit-text-stroke: 0.7px black;
+    text-shadow: 1px 1.5px 1.5px #000;
     letter-spacing:2px;
 }
 /*Auto Collect Sun And Mute checkbox in Pause Menu*/
@@ -106,7 +107,7 @@
 /*Alert Box*/
 #jngAlert #text{
     font-weight:normal;
-    letter-spacing:2px;
+    letter-spacing:1.5px;
 }
 /*Props In Selection Map (like Erlenmeyer flask)*/
 #dCueName{
