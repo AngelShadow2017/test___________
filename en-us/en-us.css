@@ -77,14 +77,14 @@
 /*Dates of Activites In Notice Menu*/
 #Notice .ActDate{ 
     font-weight: 900; 
-    font-size: 25px; 
+    font-size: 18px; 
     letter-spacing:1.5px;
     -webkit-text-stroke: 0.7px black; 
 }
 /*Number of Levels In Notice Menu*/
 #Notice .ActNumber{ 
     font-weight: 900; 
-    font-size: 25px; 
+    font-size: 18px; 
     letter-spacing:1.5px;
     -webkit-text-stroke: 0.7px black; 
 }
