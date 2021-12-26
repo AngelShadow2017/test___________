@@ -57,7 +57,7 @@
 }
 /*Restart and Quit buttons in Pause Menu*/
 #Menu .button{
-    -webkit-text-stroke: 0.7px black;
+    -webkit-text-stroke: 1px black;
     text-shadow: 1px 1.5px 1.5px #000;
     letter-spacing:2px;
 }
