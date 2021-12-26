@@ -79,12 +79,14 @@
 #Notice .ActDate{ 
     font-weight: 1000; 
     font-size: 20px; 
+    text-shadow: 1px 1px 1px #000;
     -webkit-text-stroke: 1px black; 
 }
 /*Number of Levels In Notice Menu*/
 #Notice .ActNumber{ 
     font-weight: 1000; 
     font-size: 20px; 
+    text-shadow: 1px 1px 1px #000;
     -webkit-text-stroke: 1px black; 
 }
 /*Score Text in game*/
