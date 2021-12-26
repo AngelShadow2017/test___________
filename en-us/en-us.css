@@ -85,7 +85,7 @@
 #Notice .ActNumber{ 
     font-weight: 900; 
     font-size: 25px; 
-    letter-spacing:2px;
+    letter-spacing:1px;
     -webkit-text-stroke: 0.7px black; 
 }
 /*Score Text in game*/
