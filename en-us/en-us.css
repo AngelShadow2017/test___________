@@ -63,7 +63,7 @@
 }
 /*Auto Collect Sun And Mute checkbox in Pause Menu*/
 #Menu .OMd0 .OMd1{
-    -webkit-text-stroke: 0.7px black;
+    -webkit-text-stroke: 0.8px black;
     font-size: 17px;
 }
 /*Fast Setting*/
@@ -103,7 +103,7 @@
     font-size: 25px;
     font-weight: bold;
     text-shadow: 1px 1.5px 1.5px #000;
-    -webkit-text-stroke: 0.7px black; 
+    -webkit-text-stroke: 0.6px black; 
 }
 /*Alert Box*/
 #jngAlert #text{
