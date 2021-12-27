@@ -107,7 +107,7 @@
 /*Alert Box*/
 #jngAlert #text{
     font-weight:normal;
-    -webkit-text-stroke: 1px black; 
+    -webkit-text-stroke: 0.3px black; 
     letter-spacing:1.5px;
 }
 /*Props In Selection Map (like Erlenmeyer flask)*/
