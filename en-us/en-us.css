@@ -108,7 +108,7 @@
 }
 /*Alert Box*/
 #jngAlert #text{
-    font-weight:normal;
+    font-weight:bold;
     -webkit-text-stroke: 0.3px black; 
     letter-spacing:1.5px;
 }
