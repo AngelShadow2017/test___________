@@ -110,6 +110,7 @@
 /*Alert Box*/
 #jngAlert #text{
     font-weight:bold;
+    font-size: 22px;
     -webkit-text-stroke: 0.3px black; 
     letter-spacing:1.5px;
 }
