@@ -158,4 +158,4 @@
     background-size:204px 71px;
     transition:filter 300ms ease-out;
 }
-#dReadySetPlant{background:url(./uis/ReadySetPlant.webp) no-repeat;transform:scale(1.2);}
+#dReadySetPlant{background:url(./uis/ReadySetPlant.webp) no-repeat;background-size:260px;}
