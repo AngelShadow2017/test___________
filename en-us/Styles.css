@@ -120,10 +120,38 @@
     font-size:21px;
     top:2px;
 }
-
-
-
-
-
-
-
+/*Buttons*/
+.Start{
+    background:url(./uis/Buttons/Start.webp) !important;
+    background-size:112px 46px !important;
+}
+/* 按钮-确定 */
+.OK{ background:url(./uis/Buttons/OK.webp) !important; background-size:112px 46px !important; }
+/* 按钮-取消 */
+.Cancel{background:url(./uis/Buttons/Cancel.webp) !important; background-size:112px 46px !important;}
+/* 按钮-继续游戏 */
+.Continue{ background:url(./uis/Buttons/Continue.webp) !important; background-size:112px 46px !important;}
+#dMenu #dMenu0 {
+    background-image:url(./uis/Buttons/Speed.webp);
+    background-size:112px 46px;
+}
+#dMenu #dMenu1{
+    background-image:url(./uis/Buttons/Menu.webp);
+    background-size:112px 46px;
+}
+#LvlInfoUI #jx {
+    background-image:url(./uis/Buttons/Mirror.webp);
+    background-size:112px 46px;
+}
+#dSelectCard #button1 {
+    background-image:url(./uis/Buttons/Reset.webp);
+    background-size:112px 46px;
+}
+/*last stand*/
+#dAll #startFightButton{
+    /*font-szie balaba*/
+}
+#startGame{
+    background:url(./uis/Game_Start.webp);
+    background-size:204px 71px;
+}
