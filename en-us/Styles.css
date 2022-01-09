@@ -123,14 +123,16 @@
 /*Buttons*/
 .Start{
     background-image:url(./uis/Buttons/Start.webp) !important;
-    background-size:112px 46px !important;
 }
 /* 按钮-确定 */
-.OK{ background-image:url(./uis/Buttons/OK.webp) !important; background-size:112px 46px !important; }
+.OK{ background-image:url(./uis/Buttons/OK.webp) !important;}
 /* 按钮-取消 */
-.Cancel{background-image:url(./uis/Buttons/Cancel.webp) !important; background-size:112px 46px !important;}
+.Cancel{background-image:url(./uis/Buttons/Cancel.webp) !important;}
 /* 按钮-继续游戏 */
-.Continue{ background-image:url(./uis/Buttons/Continue.webp) !important; background-size:112px 46px !important;}
+.Continue{ background-image:url(./uis/Buttons/Continue.webp) !important;}
+.Start,.OK,.Cancel,.Continue{
+    background-size:112px 46px !important;
+}
 #dMenu #dMenu0 {
     background-image:url(./uis/Buttons/Speed.webp);
     background-size:112px 46px;
