@@ -157,3 +157,4 @@
     background:url(./uis/Game_Start.webp);
     background-size:204px 71px;
 }
+#dReadySetPlant{background:url(./uis/ReadySetPlant.webp) no-repeat;transform:scale(1.2);}
