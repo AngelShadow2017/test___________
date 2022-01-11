@@ -171,9 +171,6 @@
     background-size:204px 71px;
     transition:filter 300ms ease-out;
 }
-#user{
-    background:url(./uis/User.webp);
-}
 #dReadySetPlant{background:url(./uis/ReadySetPlant.webp) no-repeat;background-size:260px;}
 #dAll #userButton{
     background-image:url(./uis/Buttons/User.webp) !important;
