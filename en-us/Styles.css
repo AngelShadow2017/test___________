@@ -179,3 +179,7 @@
 #Almanac .Book,#Almanac #aTitle{
     background-image:url(./uis/Almanac.webp);
 }
+/*Panel*/
+#LvlInfoUI,#Menu{
+    background-image:url(./uis/panel.webp);
+}

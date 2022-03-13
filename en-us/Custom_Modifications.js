@@ -14,6 +14,8 @@
             FilePath+"uis/map.webp",
             FilePath+"uis/Fuben1.webp",
             FilePath+"uis/Introduction.webp",
+            FilePath+"uis/panel.webp",
+            FilePath+"uis/Almanac.webp",
         ].concat(buttons),
         "au":[]
     });
