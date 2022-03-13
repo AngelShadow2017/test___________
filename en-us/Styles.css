@@ -175,3 +175,7 @@
 #dAll #userButton{
     background-image:url(./uis/Buttons/User.webp) !important;
 }
+/*Information*/
+#Almanac .Book,#Almanac #aTitle{
+    background-image:url(./uis/Almanac.webp);
+}
