@@ -192,3 +192,7 @@
 #dSelectCard, #jngAlert, #dProcess, #LvlInfoUI, #Menu, #kuaisushezhi, #dCue{
     background-image:url(./uis/panel.webp);
 }
+/*Almanac*/
+.Almanac_Name{
+    font-size:27.4px;
+}
