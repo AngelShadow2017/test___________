@@ -33,7 +33,7 @@
                         size = sizes[i.charCodeAt()-65]/2000;
                     }
                     if(i>="a"&&i<='z'){
-                        size = sizes_lower[i.charCodeAt()-100]/2000;
+                        size = sizes_lower[i.charCodeAt()-97]/2000;
                     }
                     if(i=='1'){
                         size=0.4;
