@@ -31,16 +31,13 @@
                     let sizes_lower = [985,930,965,1005,870,800,1040,790,570,800,750,1020,1250,1025,1090,1000,1000,800,800,880,1010,1130,1130,970,950,887];
                     let arrNum = [985,930,965,1005,870,800,1040,790,570,800];
                     if(i>="0"&&i<="9"){
-                        size = arrNum[i.charCodeAt()-65]/2000;
+                        size = arrNum[i.charCodeAt()-48]/2000;
                     }
                     if(i>='A'&&i<='Z'){
                         size = sizes[i.charCodeAt()-65]/2000;
                     }
                     if(i>="a"&&i<='z'){
                         size = sizes_lower[i.charCodeAt()-97]/2000;
-                    }
-                    if(i=='1'){
-                        size=0.4;
                     }
                     return size;
                 };
