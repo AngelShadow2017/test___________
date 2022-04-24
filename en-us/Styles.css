@@ -93,14 +93,14 @@
     font-weight: 1000; 
     font-size: 20px; 
     text-shadow: 1px 1px 0.7px #000;
-    -webkit-text-stroke: 1px black; 
+    -webkit-text-stroke: 0.8px black; 
 }
 /*Number of Levels In Notice Menu*/
 #Notice .ActNumber{ 
     font-weight: 1000; 
     font-size: 20px; 
     text-shadow: 1px 1px 0.7px #000;
-    -webkit-text-stroke: 1px black; 
+    -webkit-text-stroke: 0.8px black; 
 }
 /*Score Text in game*/
 #jifen{ 
