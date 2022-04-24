@@ -31,7 +31,7 @@
 }
 #dNewPlantSunNum{
     left:74%;
-    top:60px;
+    top:70px;
 }
 #dNewPlantcoolTime{
     left:670px;
@@ -199,7 +199,7 @@
 .cardSunNum{
     text-align: right;
     width: 100%;
-    height: 20px;
+    height: 50px;
     bottom: 5px;
     right: 8px;
     color:white;
