@@ -129,21 +129,33 @@
     font-size:21px;
     top:2px;
 }
+/*Text on buttons*/
+.oneLineVoidButton {
+    font-size: 27px !important;
+    text-align: center;
+    text-shadow: rgb(0 0 0) 2px 0px 0px, rgb(0 0 0) 1.75517px 0.958851px 0px, rgb(0 0 0) 1.0806px 1.68294px 0px, rgb(0 0 0) 0.141474px 1.99499px 0px, rgb(0 0 0) -0.832294px 1.81859px 0px, rgb(0 0 0) -1.60229px 1.19694px 0px, rgb(0 0 0) -1.97998px 0.28224px 0px, rgb(0 0 0) -1.87291px -0.701566px 0px, rgb(0 0 0) -1.30729px -1.5136px 0px, rgb(0 0 0) -0.421592px -1.95506px 0px, rgb(0 0 0) 0.567324px -1.91785px 0px, rgb(0 0 0) 1.41734px -1.41108px 0px, rgb(0 0 0) 1.92034px -0.558831px 0px, -2px 2px 3px black;
+}
+/*Let's Rock!*/
+#dAll #startFightButton {
+    font-size: 27px !important;
+    text-align: center;
+    text-shadow: rgb(0 0 0) 2px 0px 0px, rgb(0 0 0) 1.75517px 0.958851px 0px, rgb(0 0 0) 1.0806px 1.68294px 0px, rgb(0 0 0) 0.141474px 1.99499px 0px, rgb(0 0 0) -0.832294px 1.81859px 0px, rgb(0 0 0) -1.60229px 1.19694px 0px, rgb(0 0 0) -1.97998px 0.28224px 0px, rgb(0 0 0) -1.87291px -0.701566px 0px, rgb(0 0 0) -1.30729px -1.5136px 0px, rgb(0 0 0) -0.421592px -1.95506px 0px, rgb(0 0 0) 0.567324px -1.91785px 0px, rgb(0 0 0) 1.41734px -1.41108px 0px, rgb(0 0 0) 1.92034px -0.558831px 0px, -2px 2px 3px black;
+}
     
 /*Buttons*/
-.Start{
+/*.Start{
     background-image:url(./uis/Buttons/Start.webp) !important;
-}
+}*/
 /* 按钮-确定 */
-.OK{ background-image:url(./uis/Buttons/OK.webp) !important;}
-/* 按钮-取消 */
-.Cancel{background-image:url(./uis/Buttons/Cancel.webp) !important;}
-/* 按钮-继续游戏 */
-.Continue{ background-image:url(./uis/Buttons/Continue.webp) !important;}
-.Start,.OK,.Cancel,.Continue{
+/*.OK{ background-image:url(./uis/Buttons/OK.webp) !important;}
+*//* 按钮-取消 */
+/*.Cancel{background-image:url(./uis/Buttons/Cancel.webp) !important;}
+*//* 按钮-继续游戏 */
+/*.Continue{ background-image:url(./uis/Buttons/Continue.webp) !important;}
+*/.Start,.OK,.Cancel,.Continue{
     background-size:112px 46px !important;
 }
-#dMenu #dMenu0 {
+/*#dMenu #dMenu0 {
     background-image:url(./uis/Buttons/Speed.webp);
     background-size:112px 46px;
 }
@@ -158,7 +170,7 @@
 #dSelectCard #button1 {
     background-image:url(./uis/Buttons/Reset.webp);
     background-size:112px 46px;
-}
+}*/
 /*last stand*/
 #dAll #startFightButton{
     /*font-szie balaba*/
@@ -208,9 +220,9 @@
     position: absolute;
     font-size: 28px;
 }
-/*Text on Buttons*/
-!important .VoidButton{
-    font-size: 27px;
+/*New Buttons*/
+.voidButton{
+    font-size: 27px !important;
     text-align: center;
     text-shadow: rgb(0 0 0) 2px 0px 0px, rgb(0 0 0) 1.75517px 0.958851px 0px, rgb(0 0 0) 1.0806px 1.68294px 0px, rgb(0 0 0) 0.141474px 1.99499px 0px, rgb(0 0 0) -0.832294px 1.81859px 0px, rgb(0 0 0) -1.60229px 1.19694px 0px, rgb(0 0 0) -1.97998px 0.28224px 0px, rgb(0 0 0) -1.87291px -0.701566px 0px, rgb(0 0 0) -1.30729px -1.5136px 0px, rgb(0 0 0) -0.421592px -1.95506px 0px, rgb(0 0 0) 0.567324px -1.91785px 0px, rgb(0 0 0) 1.41734px -1.41108px 0px, rgb(0 0 0) 1.92034px -0.558831px 0px, -2px 2px 3px black;
 }
