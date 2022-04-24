@@ -31,7 +31,7 @@
 }
 #dNewPlantSunNum{
     left:74%;
-    top:70px;
+    top:100px;
 }
 #dNewPlantcoolTime{
     left:670px;
@@ -128,6 +128,9 @@
 #dCueName{
     font-size:21px;
     top:2px;
+}
+.VoidButton {
+    -webkit-text-stroke: #000 1.3px;
 }
 /*Text on buttons*/
 .oneLineVoidButton {
