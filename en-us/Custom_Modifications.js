@@ -21,7 +21,7 @@
     });
     jngTemplate.template.Writer = `<div id="wrap"><img src="${FilePath}uis/writers.webp"></div>`;
     
-    {
+    /*{
         let shakeText = oEffects.TextEffects.ShakeText;
         oEffects.TextEffects.ShakeText = function(json){
             if(!json.customSize){
@@ -45,5 +45,5 @@
             return shakeText.bind(oEffects.TextEffects)(json);
         };
         console.log(oEffects.TextEffects.ShakeText);
-    }
+    }*/
 };
