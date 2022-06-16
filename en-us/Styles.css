@@ -117,6 +117,11 @@
     text-shadow: 1px 1.5px 1.5px #000;
     -webkit-text-stroke: 0.6px black; 
 }
+/*Sunbank counter*/
+#sSunNum{
+    top: 10px;
+    font-size: 18pt;
+}
 /*Alert Box*/
 #jngAlert #text{
     font-weight:bold;
