@@ -116,6 +116,7 @@
     font-weight: bold;
     text-shadow: 1px 1.5px 1.5px #000;
     -webkit-text-stroke: 0.6px black; 
+    top: -490px;
 }
 /*Sunbank counter*/
 #sSunNum{
