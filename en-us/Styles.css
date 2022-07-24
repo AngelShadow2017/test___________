@@ -104,16 +104,12 @@
     -webkit-text-stroke: 1px black; 
 }
 /*Score Text in game*/
-#jifen{ 
-    top: 4.5px;
-    white-space: nowrap;
-    font-size: 15px;
-    font-weight: 400;
+#dGameScore{ 
+    text-shadow: 1px 1.5px 1.5px #000;
+    -webkit-text-stroke: 0.6px black; 
 }
 /*Level Name in game*/
 #sFlagMeterTitleF{
-    font-size: 25px;
-    font-weight: bold;
     text-shadow: 1px 1.5px 1.5px #000;
     -webkit-text-stroke: 0.6px black; 
     top: 33px;
