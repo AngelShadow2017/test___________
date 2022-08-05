@@ -20,8 +20,12 @@
 }
 
 /*The Map Background*/
-#WorldMap, #dNewProp{
-    background:url(./uis/PublicBg.webp)  no-repeat;
+#WorldMap{
+    background:url(./uis/PublicBg.webp) no-repeat;
+}
+
+#dNewProp{
+    background:url(./uis/NewProp.webp) no-repeat;
 }
 
 /*The name of the new plant, in the customs clearance screen*/
