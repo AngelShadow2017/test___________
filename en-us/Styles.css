@@ -19,7 +19,7 @@
     -webkit-text-stroke: 0.6px #000;
 }
 
-#WorldMap{}/*The Map Background*/
+#WorldMap{background:url(./uis/GetNewPlantPanelEnglish.webp);}/*The Map Background*/
 
 /*The name of the new plant, in the customs clearance screen*/
 #dNewPlant{background:url(./uis/GetNewPlantPanelEnglish.webp);}
