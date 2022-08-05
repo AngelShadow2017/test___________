@@ -20,7 +20,7 @@
         "au":[]
     });
     jngTemplate.template.Writer = `<div id="wrap"><img src="${FilePath}uis/writers.webp"></div>`;
-    
+    jngTemplate.template.Diary = `<iframe id='DiaryIframe' class="NoBar" width="900" height="600" frameBorder='0' scrolling='auto' src='frame/Diary.html?folder=../${FilePath}/DiaryPages/'></iframe>`;
     /*{
         let shakeText = oEffects.TextEffects.ShakeText;
         oEffects.TextEffects.ShakeText = function(json){
