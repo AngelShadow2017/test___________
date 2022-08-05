@@ -28,6 +28,10 @@
     background:url(./uis/NewProp.webp) no-repeat;
 }
 
+#dShop{
+    background:url(./uis/Store.webp) no-repeat;
+}
+
 /*The name of the new plant, in the customs clearance screen*/
 #dNewPlant{background:url(./uis/GetNewPlantPanelEnglish.webp);}
 #dNewPlantName{
