@@ -206,6 +206,9 @@
 #dSelectCard, #jngAlert, #dProcess, #LvlInfoUI, #Menu, #kuaisushezhi, #dCue{
     background-image:url(./uis/panel.webp);
 }
+#GameOver{
+    background-image:url(./uis/GameOver.png);
+}
 /*Almanac*/
 .Almanac_Name{
     font-size:27.4px;
