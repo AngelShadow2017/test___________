@@ -32,6 +32,14 @@
     background:url(./uis/store.webp) no-repeat;
 }
 
+#Notice{
+    background:url(./uis/Notice.webp) 0 0;
+}
+
+#Notice .Enter{
+    background:url(./uis/Notice.webp) -266px -602px;
+}
+
 /*The name of the new plant, in the customs clearance screen*/
 #dNewPlant{background:url(./uis/GetNewPlantPanelEnglish.webp);}
 #dNewPlantName{
