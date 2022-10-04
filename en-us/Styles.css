@@ -207,7 +207,7 @@
 }
 
 /*Information*/
-#Almanac .Book,#Almanac #aTitle{
+#dInfoGUI .Book,#dInfoGUI #aTitle{
     background-image:url(./uis/Almanac.webp);
 }
 /*Panel*/
